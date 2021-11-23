@@ -1,0 +1,4 @@
+number = int(input("introduzca el numero"))
+
+if number %2 ==0: print("el numero %d es par" %number)
+else: print("el numero %d es impar" %number)
